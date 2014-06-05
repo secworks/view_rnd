@@ -4,7 +4,7 @@ A simple program for viewing random values as an image.
 
 # Introduction #
 This program accepts an infile and generates a PNG image based on the
-bytes in the given infile. Each bite is treated as a pixel with the
+bytes in the given infile. Each byte is treated as a pixel with the
 grayness level based on the byte value. That is, 0x00 will be black and
 0xff will be white.
 
