@@ -47,7 +47,8 @@ generator is the one specified in the book Numerical Recipies in C.
 # Implementation details #
 The program is written in Python 2.X.
 
-The program depends on the [Python Imaging Library (PIL)](). It
-**Should** work with the Pillow fork of PIL, but this has not been
-tested (yet).
+The program depends on the [Python Imaging Library
+(PIL)](http://www.pythonware.com/products/pil/). It **Should** work with
+the [Pillow](https://github.com/python-pillow/Pillow) fork of PIL, but
+this has not been tested (yet).
 
