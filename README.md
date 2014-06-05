@@ -47,7 +47,7 @@ generator is the one specified in the book Numerical Recipies in C.
 # Examples #
 The following image is generated using the random generator in Python:
 
-(examples/python_rng_gen.png)
+(/examples/python_rng_gen.png?raw=true)
 
 
 The follwing image is generated using the linar congruential generator
